@@ -2,9 +2,11 @@
   url: docs
   links:
     - title: "游玩入门"
-      url: "docs/游玩入门"
+      url: "docs/started/游玩入门"
     - title: "游戏安装教程"
-      url: "docs/游戏安装教程"
+      url: "docs/started/游戏安装教程"
+    - title: "常见问题修复帮助"
+      url: "docs/started/常见问题修复帮助"
     #- title: "News"
     #  url: "news"
 
