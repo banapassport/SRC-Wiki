@@ -11,7 +11,7 @@
   url: "docs/game_data"
   links:
     - title: 自主改车站
-      url: "自主改车站"
+      url: "docs/game_data/自主改车站"
 - title: "其他"
   url: "docs/extras"
   links:
