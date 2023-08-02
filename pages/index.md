@@ -1,25 +1,41 @@
 ---
 layout: page
-title: OLG WMMT Wiki
+title: 主页
 permalink: /
 ---
 
-# Welcome to Tailwind Jekyll!
+## 欢迎使用 OLG WMMT Wiki!
 
-This is a [starter template](https://vsoch.github.com/tw-jekyll/) for a Tailwind jekyll theme, based
-on [these docs](https://github.com/superfly/docs) that are based on [Tailwind css](https://tailwindcss.com/docs/installation),
-however everything has been modified to work on GitHub pages (using Jekyll). If you don't need
-native deployment on GitHub pages, then please consider checking out Tailwind. 
-The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included.
+本Wiki站点为玩家提供游玩过程的一些帮助，帮助玩家解决问题，反馈玩家的数据需求。  
 
-## Purpose
+目前，您可以从Wiki站获取以下内容：  
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a main branch (or general GitHub pages).
+**游戏方面**
 
-{% include callout.html text="I fell in love with this template as soon as I saw it, and knew that I wanted others to be empowered to use it." %}
+1. 游戏安装教程
+2. 常见问题修复帮助
+3. TimeAttack & OCM 榜单
+4. 自主改车站
 
-For getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute? [Open an issue]({{ site.repo }}/issues)
+**数据方面**
 
+1. 游戏内数据一览
+2. 车辆一览
+3. 服务器赞助
+
+## 游玩建议
+
+### 游玩前需要了解的东西
+
+1. 线下实体机基本游玩逻辑（如有什么模式、卡的作用等）
+2. 会电脑使用基础
+3. 了解连接服务器游玩与离线游玩的区别
+4. 了解联网与联机的区别
+
+### 游戏建议最低配置
+
+```
+CPU: Intel Core i5-3550S 3.00 GHz  
+运存: 8 GB DDR3 2400 MHz  
+显卡: NVIDIA GeForce GTX 650 Ti  
+```
