@@ -7,11 +7,15 @@
       url: "docs/游戏安装教程"
     #- title: "News"
     #  url: "news"
+
 - title: "游戏数据"
   url: "docs/game_data"
   links:
     - title: 自助改车站
       url: "docs/game_data/自助改车站"
+    - title: 服务器赞助
+      url: "docs/game_data/服务器赞助"
+
 - title: "其他"
   url: "docs/extras"
   links:
