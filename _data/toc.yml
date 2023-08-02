@@ -3,10 +3,15 @@
   links:
     - title: "游玩入门"
       url: "docs/游玩入门"
-    - title: "About"
-      url: "about"
+    - title: "游戏安装教程"
+      url: "docs/游戏安装教程"
     #- title: "News"
     #  url: "news"
+- title: "游戏数据"
+  url: "docs/game_data"
+  links:
+    - title: 自主改车站
+      url: "自主改车站"
 - title: "其他"
   url: "docs/extras"
   links:
