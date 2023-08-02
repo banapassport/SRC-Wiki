@@ -14,10 +14,10 @@
       url: "about"
     - title: "News"
       url: "news"
-- title: "Extras"
+- title: "其他"
   url: "docs/extras"
   links:
     - title: Quizzes
       url: "docs/extras/example-quiz"
-    - title: Tags Page
+    - title: 标签
       url: "tags"
