@@ -5,12 +5,12 @@
       url: "docs/游玩入门"
     - title: "About"
       url: "about"
-    - title: "News"
-      url: "news"
+    #- title: "News"
+    #  url: "news"
 - title: "其他"
   url: "docs/extras"
   links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
+    #- title: Quizzes
+    #  url: "docs/extras/example-quiz"
     - title: 标签
       url: "tags"
