@@ -29,7 +29,7 @@ baseurl: "/OLG-Wiki" # the subpath of your site, e.g. /blog
 url: "https://olg-wmmt-team.github.io" # the base hostname & protocol for your site
 
 # Keywords (space separated)
-keywords: "documentation theme"
+keywords: "OLG WMMT Wangan Wiki"
 
 # Add colorful permalinks to headers
 # change colors in _includes/permalinks.html
@@ -45,7 +45,7 @@ github_repo: OLG-Wiki
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
-logo: assets/img/tw-jekyll.png
+logo: assets/img/logo.png
 
 # branch to edit on GitHub
 github_branch: main
