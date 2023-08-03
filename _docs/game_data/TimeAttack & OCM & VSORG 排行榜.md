@@ -15,7 +15,3 @@ Link: <a href="https://lowcode.methodot.com/app/olg-wmmt-public/page-6485dc196fb
 ## OCM 全服冠军争夺赛 排行榜
 
 Link: <a href="https://lowcode.methodot.com/app/olg-wmmt-public/page-6486f3e06fbfd93d5cd423de" target="_blank">OCM Rank</a>
-
-
-
-<iframe src="https://lowcode.methodot.com/app/olg-wmmt-public/page-6485dc196fbfd93d5cd41d80" width="100%" height="600" title="Rank"></iframe>
