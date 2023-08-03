@@ -10,9 +10,9 @@ author:
 
 ## TimeAttack 计时模式 排行榜
 
-Link: [TimeAttack Rank](https://lowcode.methodot.com/app/olg-wmmt-public/page-6485dc196fbfd93d5cd41d80)
+Link: <a href="https://lowcode.methodot.com/app/olg-wmmt-public/page-6485dc196fbfd93d5cd41d80" target="_blank">TimeAttack Rank</a>
 
 ## OCM 全服冠军争夺赛 排行榜
 
-Link: [OCM Rank](https://lowcode.methodot.com/app/olg-wmmt-public/page-6486f3e06fbfd93d5cd423de/edit?branch=master)
+Link: <a href="https://lowcode.methodot.com/app/olg-wmmt-public/page-6486f3e06fbfd93d5cd423de" target="_blank">OCM Rank</a>
 
