@@ -1,5 +1,5 @@
-- title: 文档
-  url: docs
+- title: "游戏"
+  url: "docs/started"
   links:
     - title: "游玩入门"
       url: "docs/started/游玩入门"
@@ -7,25 +7,34 @@
       url: "docs/started/游戏安装教程"
     - title: "常见问题修复帮助"
       url: "docs/started/常见问题修复帮助"
-    - title: "TimeAttack & OCM & VSORG 排行榜"
-      url: "docs/started/TimeAttack & OCM & VSORG 排行榜"
+    
     #- title: "News"
     #  url: "news"
+
+- title: "服务器"
+  url: "docs/server"
+  links:
+    - title: "在线活动信息"
+      url: "docs/game_data/在线活动信息"
 
 - title: "游戏数据"
   url: "docs/game_data"
   links:
-    - title: 自助改车站
+    - title: "TimeAttack & OCM & VSORG 排行榜"
+      url: "docs/game_data/TimeAttack & OCM & VSORG 排行榜"
+    - title: "自助改车站"
       url: "docs/game_data/自助改车站"
-    - title: 数据一览
+    - title: "数据一览"
       url: "docs/game_data/数据一览"
-    - title: 服务器赞助
+    - title: "服务器赞助"
       url: "docs/game_data/服务器赞助"
 
 - title: "其他"
   url: "docs/extras"
   links:
+
     #- title: Quizzes
     #  url: "docs/extras/example-quiz"
-    - title: 标签
+
+    - title: "标签"
       url: "tags"
