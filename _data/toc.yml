@@ -15,7 +15,7 @@
   url: "docs/server"
   links:
     - title: "在线活动信息"
-      url: "docs/game_data/在线活动信息"
+      url: "docs/server/在线活动信息"
 
 - title: "游戏数据"
   url: "docs/game_data"
