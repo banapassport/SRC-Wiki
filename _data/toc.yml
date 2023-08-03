@@ -17,6 +17,8 @@
   links:
     - title: 自助改车站
       url: "docs/game_data/自助改车站"
+    - title: 数据一览
+      url: "docs/game_data/数据一览"
     - title: 服务器赞助
       url: "docs/game_data/服务器赞助"
 
