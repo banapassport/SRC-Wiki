@@ -1,7 +1,7 @@
 ---
 tags: 
  - WMMT
- - 入门
+ - 数据
 description: TimeAttack & OCM & VSORG List
 author:
   name: kKsk
