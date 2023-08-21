@@ -4,7 +4,7 @@ title: 主页
 permalink: /
 ---
 
-## 欢迎使用 OLG WMMT Wiki!
+## 欢迎使用 Shimokitazawa Wiki!
 
 本Wiki站点为玩家提供游玩过程的一些帮助，帮助玩家解决问题，反馈玩家的数据需求。  
 
