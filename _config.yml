@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shimokitazawa Wiki
+title: Season RC Wiki
 email: alonzomax1210@gmail.com
 author: kKsk
 description: > # this means to ignore newlines until "baseurl:"
@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Shimokitazawa.cn/" # the base hostname & protocol for your site
 
 # Keywords (space separated)
-keywords: "Shimokitazawa Wangan Wiki"
+keywords: "Season RC Wiki"
 
 # Add colorful permalinks to headers
 # change colors in _includes/permalinks.html
@@ -38,10 +38,10 @@ add_permalinks: true
 # Optional
 twitter: Zj031210
 # linkedin: vsochat
-support: https://github.com/Shimokitazawa-Wangan/Shimokitazawa-Wiki/issues
-repo: https://github.com/Shimokitazawa-Wangan/Shimokitazawa-Wiki
-github_user: Shimokitazawa-Wangan
-github_repo: Shimokitazawa-Wiki
+support: https://github.com/SeasonRC/SRC-Wiki/issues
+repo: https://github.com/SeasonRC/SRC-Wiki
+github_user: SeasonRC
+github_repo: SRC-Wiki
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
