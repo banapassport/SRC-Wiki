@@ -14,6 +14,8 @@
 - title: "服务器"
   url: "docs/server"
   links:
+    - title: "服务器公告"
+      url: "docs/server/服务器公告"
     - title: "在线活动信息"
       url: "docs/server/在线活动信息"
 
