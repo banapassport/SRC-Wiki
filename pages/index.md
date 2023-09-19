@@ -4,7 +4,7 @@ title: 主页
 permalink: /
 ---
 
-## 欢迎使用 Shimokitazawa Wiki!
+## 欢迎使用 Season RC Wiki!
 
 本Wiki站点为玩家提供游玩过程的一些帮助，帮助玩家解决问题，反馈玩家的数据需求。  
 
@@ -25,7 +25,6 @@ permalink: /
 2. [自助改车站](https://shimokitazawa.cn/docs/game_data/%E8%87%AA%E5%8A%A9%E6%94%B9%E8%BD%A6%E7%AB%99)
 3. [数据一览](https://shimokitazawa.cn/docs/game_data/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%A7%88)
 4. [车辆一览](https://shimokitazawa.cn/docs/game_data/%E8%BD%A6%E8%BE%86%E4%B8%80%E8%A7%88)
-5. [服务器赞助](https://shimokitazawa.cn/docs/game_data/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%9E%E5%8A%A9)
 
 ## 游玩建议
 
