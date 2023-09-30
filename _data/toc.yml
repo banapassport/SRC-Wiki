@@ -7,6 +7,8 @@
       url: "docs/server/在线活动信息"
     - title: "更新历史"
       url: "docs/server/更新历史"
+    - title: "OCM殿堂"
+      url: "docs/server/OCM殿堂"
 
 - title: "游戏"
   url: "docs/started"
