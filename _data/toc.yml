@@ -5,6 +5,8 @@
       url: "docs/server/服务器公告"
     - title: "在线活动信息"
       url: "docs/server/在线活动信息"
+    - title: "更新历史"
+      url: "docs/server/更新历史"
 
 - title: "游戏"
   url: "docs/started"
